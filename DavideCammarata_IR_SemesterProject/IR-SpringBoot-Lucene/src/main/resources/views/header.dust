@@ -1,0 +1,18 @@
+<div class="panel">
+    <div class="panel-body">
+        <ul id="tabs-demo6" class="nav nav-tabs nav-tabs-v6 masonry-tabs" role="tablist">
+            <div class="paddingHeader animated fadeIn form-group form-animate-text">
+                <div class="col-md-10">
+                    <input id="queryText" class="form-text" required="" aria-required="true" type="text" autofocus>
+                    <span class="bar"></span>
+                    <label style="padding-left: 10px;">Enter your query</label>
+                </div>
+                <div class="col-md-2">
+                    <input class="btn btn-gradient btn-primary margin-top-20" value="Search" type="button">
+                </div>
+            </div>
+        </ul>
+    </div>
+</div>
+<div id="resultsSpace" class="col-md-12">
+</div>
